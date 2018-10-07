@@ -1,0 +1,1 @@
+To open project in Visual Studio, you must start this SLN file. But in the same directory, where it is, must be "MiniSystemBox" catalogue with all data from main menu.

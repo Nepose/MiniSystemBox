@@ -12,5 +12,7 @@ This app has built-in simple modules:
 * **Notepad** - at this moment without formatting text.
 
 ## How to enter application?
-* *SLN file* is file to open code in Visual Studio. Application is done in Visual Studio 2017 and uses .NET Framework 4.
-* At *MiniSystemBox* directory is put entire source code.
+If you want to use it with Visual Studio:
+* Download repo
+* At directory where project will be put *MiniSystemBox.sln* file and create directory *MiniSystemBox*.
+* Move all source code to *MiniSystemBox* directory.
