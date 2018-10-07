@@ -1,0 +1,21 @@
+C:\Users\user\AppData\Local\Temporary Projects\MiniSystemBox\bin\Debug\MiniSystemBox.exe
+C:\Users\user\AppData\Local\Temporary Projects\MiniSystemBox\bin\Debug\MiniSystemBox.pdb
+C:\Users\user\AppData\Local\Temporary Projects\MiniSystemBox\bin\Debug\MiniSystemBox.xml
+C:\Users\user\AppData\Local\Temporary Projects\MiniSystemBox\obj\x86\Debug\MiniSystemBox.FormaGlowna.resources
+C:\Users\user\AppData\Local\Temporary Projects\MiniSystemBox\obj\x86\Debug\MiniSystemBox.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\MiniSystemBox\obj\x86\Debug\MiniSystemBox.vbproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\MiniSystemBox\obj\x86\Debug\MiniSystemBox.exe
+C:\Users\user\AppData\Local\Temporary Projects\MiniSystemBox\obj\x86\Debug\MiniSystemBox.xml
+C:\Users\user\AppData\Local\Temporary Projects\MiniSystemBox\obj\x86\Debug\MiniSystemBox.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\MiniSystemBox\MiniSystemBox\obj\x86\Debug\MiniSystemBox.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\MiniSystemBox\MiniSystemBox\obj\x86\Debug\MiniSystemBox.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\MiniSystemBox\MiniSystemBox\obj\x86\Debug\MiniSystemBox.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\MiniSystemBox\MiniSystemBox\bin\Debug\MiniSystemBox.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\MiniSystemBox\MiniSystemBox\bin\Debug\MiniSystemBox.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\MiniSystemBox\MiniSystemBox\bin\Debug\MiniSystemBox.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\MiniSystemBox\MiniSystemBox\obj\x86\Debug\MiniSystemBox.FormaGlowna.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\MiniSystemBox\MiniSystemBox\obj\x86\Debug\MiniSystemBox.Resources.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\MiniSystemBox\MiniSystemBox\obj\x86\Debug\MiniSystemBox.vbproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\MiniSystemBox\MiniSystemBox\bin\Debug\MiniSystemBox.exe.config
+C:\Users\user\Documents\Visual Studio 2010\Projects\MiniSystemBox\MiniSystemBox\obj\x86\Debug\MiniSystemBox.vbproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\MiniSystemBox\MiniSystemBox\obj\x86\Debug\MiniSystemBox.vbprojResolveAssemblyReference.cache
